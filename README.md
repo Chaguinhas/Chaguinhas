@@ -4,9 +4,9 @@ Meu nome é Rayan
 
 -Estou estudando na Alura;
 
--Estou me desenvolvendo na linguagem JavaScript
+-Estou me desenvolvendo na linguagem JavaScript;
 
--Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
+-Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos;
 
 ### Caso queira entrar em contato comigo 📞
 
